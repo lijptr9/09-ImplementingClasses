@@ -5,6 +5,7 @@ NOTE: This is NOT rosegraphics -- it is your OWN Point class.
 Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
          their colleagues and Ji Li.
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
+import math
 
 
 def main():
